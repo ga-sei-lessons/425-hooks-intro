@@ -1,9 +1,11 @@
-import Counter from './Counter'
+// import Counter from './Counter'
+import Wisdom from './Wisdom'
 
 function App() {
   return (
     <>
-      <Counter />
+      {/* <Counter /> */}
+      <Wisdom />
     </>
   );
 }
