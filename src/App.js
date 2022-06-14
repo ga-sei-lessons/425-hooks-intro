@@ -1,11 +1,15 @@
 // import Counter from './Counter'
-import Wisdom from './Wisdom'
+// import Wisdom from './Wisdom'
+// import Timer from './Timer'
+import Github from "./Github"
 
 function App() {
   return (
     <>
-      {/* <Counter /> */}
+      {/* <Counter />
       <Wisdom />
+      <Timer /> */}
+      <Github />
     </>
   );
 }
